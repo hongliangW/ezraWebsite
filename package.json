@@ -1,0 +1,14 @@
+{
+  "name": "Ezra",
+  "version": "1.0.0",
+  "description": "Ezra home page project.",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "author": "HongliangW, JohnS, AllenX",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1"
+  }
+}
